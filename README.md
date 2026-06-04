@@ -1,4 +1,4 @@
-# awesome_gfx_resources
+# Another awesome list of Gfx resources
 ## Introduction
 This is my personal best-ever collection of resources for graphic-related questions. 
 
