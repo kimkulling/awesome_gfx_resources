@@ -4,6 +4,7 @@ This is my personal best-ever collection of resources for graphic-related questi
 
 ## APIs
 [Vulkan's home](https://www.vulkan.org/learn) - The Vulkans API home in the web
+
 [OpenGL's home](https://www.opengl.org/) - The OpenGL API home in the web
 
 ## API's examples & tutorials
