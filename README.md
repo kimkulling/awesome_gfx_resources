@@ -23,4 +23,7 @@ This is my personal best-ever collection of resources for graphic-related questi
 
 ## Papers
 
+## Cool blog posts
+[What happens when you run a CUDA kernel](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/?utm_source=tldrdev) - What happend when you run a CUDE kernel
+
 ## Other tools
