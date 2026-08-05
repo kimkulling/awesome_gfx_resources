@@ -29,3 +29,7 @@ This is my personal best-ever collection of resources for graphic-related questi
 [What happens when you run a CUDA kernel](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/?utm_source=tldrdev) - What happend when you run a CUDA kernel
 
 ## Other tools
+### UI frameworks
+[Dear ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
+
+[Tiny-UI](https://github.com/kimkulling/tiny_ui) - The tiny ui-lib, mostly used for simple tools and games.
