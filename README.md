@@ -7,6 +7,8 @@ This is my personal best-ever collection of resources for graphic-related questi
 
 [OpenGL's home](https://www.opengl.org/) - The OpenGL API home in the web
 
+## Knowledge, tools and more
+[Bit Twiddling Hacks ](https://graphics.stanford.edu/~seander/bithacks.html) - The great collection of bit-twiddling hacks by Sean Eron Anderson
 
 ## API's examples & tutorials
 ### Vulkan
@@ -20,6 +22,8 @@ This is my personal best-ever collection of resources for graphic-related questi
 [The Open Asset-Importer Lib](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 
 ## Engines
+### Open-Source
+[Godot-Engine](https://godotengine.org/) - Free and open source 2D and 3D game engine
 
 ## Papers
 
