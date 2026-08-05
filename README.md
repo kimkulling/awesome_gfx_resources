@@ -4,7 +4,6 @@ This is my personal best-ever collection of resources for graphic-related questi
 
 ## API's
 [Vulkan's home](https://www.vulkan.org/learn) - The Vulkans API home in the web
-
 [OpenGL's home](https://www.opengl.org/) - The OpenGL API home in the web
 
 ## Knowledge, tools and more
@@ -13,9 +12,7 @@ This is my personal best-ever collection of resources for graphic-related questi
 ## API's examples & tutorials
 ### Vulkan
 [The vulkan tutorial](https://vulkan-tutorial.com/) - The vulkan tutorial to start with.
-
 [The vulkan examples](https://docs.vulkan.org/samples/latest/README.html) - The official vulkan examples from the Kronos Group
-
 [Sascha Willems Vulkan Examples](https://github.com/SaschaWillems/Vulkan) - A great collection of Vulkan examples maintained by Sasche Willem
 
 ## Useful libraries
@@ -25,9 +22,7 @@ This is my personal best-ever collection of resources for graphic-related questi
 ### Open-Source
 [Godot-Engine](https://godotengine.org/) - Free and open source 2D and 3D game engine
 
-## Papers
-
 ## Cool blog posts
-[What happens when you run a CUDA kernel](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/?utm_source=tldrdev) - What happend when you run a CUDE kernel
+[What happens when you run a CUDA kernel](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/?utm_source=tldrdev) - What happend when you run a CUDA kernel
 
 ## Other tools
